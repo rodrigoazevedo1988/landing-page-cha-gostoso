@@ -281,6 +281,12 @@ body {
     justify-content: flex-start;
 }
 
+.ingredient-card.second {
+    --top: 60%;
+    --right: 130px;
+    --rot: 12deg;   
+}
+
 /* Número no canto superior direito */
 .ingredient-id {
   position: absolute;
